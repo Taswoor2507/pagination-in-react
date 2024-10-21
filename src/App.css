@@ -1,0 +1,4 @@
+.active{
+  transition: background-color 600ms ease-in-out;
+  background-color: red;
+}
